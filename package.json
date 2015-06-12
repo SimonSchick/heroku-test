@@ -1,0 +1,35 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp travis"
+  },
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "gulp": "~3.8.11",
+    "gulp-coveralls": "^0.1.4",
+    "gulp-filter": "^2.0.2",
+    "gulp-istanbul": "^0.9.0",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.9.4",
+    "gulp-load-plugins": "~0.10.0",
+    "gulp-mocha": "^2.1.0",
+    "istanbul": "^0.3.14",
+    "jshint-stylish": "^1.0.1",
+    "mocha": "^2.2.5",
+    "mocha-lcov-reporter": "0.0.2",
+    "q": "~1.4.1"
+  },
+  "dependencies": {},
+  "name": "nodejs-template",
+  "description": "[![NPM](https://nodei.co/npm/heroku-test.png)](https://nodei.co/npm/heroku-test/)",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimonSchick/heroku-test.git"
+  },
+  "author": "Simon Schick",
+  "bugs": {
+    "url": "https://github.com/SimonSchick/heroku-test/issues"
+  }
+}
