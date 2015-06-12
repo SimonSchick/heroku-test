@@ -21,7 +21,7 @@
     "q": "~1.4.1"
   },
   "dependencies": {},
-  "name": "nodejs-template",
+  "name": "heroku-test",
   "description": "[![NPM](https://nodei.co/npm/heroku-test.png)](https://nodei.co/npm/heroku-test/)",
   "version": "0.0.0",
   "repository": {
