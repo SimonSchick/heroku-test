@@ -7,4 +7,4 @@ http.createServer(function (req, res) {
 		'Content-Type': 'text/plain'
 	});
 	res.end('Hello, World\n');
-}).listen(8080, '0.0.0.0');
+}).listen(process.env.PORT || 5000, '0.0.0.0');
